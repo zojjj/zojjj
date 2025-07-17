@@ -47,21 +47,21 @@
 
 ## 🧪 Representative Projects
 
+
 ### 👥 Team Projects
 
-| 프로젝트명        | 설명                            | 기술스택                          | 링크             |
-| ------------ | ----------------------------- | ----------------------------- | -------------- |
-| PetHelper    | 반려동물 헬스케어 종합 플랫폼              | React, Flask, MongoDB, AWS    | [🔗 GitHub](#) |
-| 금융 소비 트렌드 분석 | 카드 매출 & 유동인구 데이터 기반 금융 전략 제안  | Pandas, Seaborn, Scikit-Learn | [🔗 GitHub](#) |
-| SSAFY Devlog | SSAFY 교육 중 학습한 내용을 정리한 기술 블로그 | Markdown, GitHub Pages        | [🔗 Blog](#)   |
+| 프로젝트명 | 설명 | 기술스택 | 링크 |
+|------------|------|----------|------|
+| PetHelper | 반려동물 헬스케어 종합 플랫폼 | React, Flask, MongoDB, AWS | [🔗 GitHub](#) |
+| 금융 소비 트렌드 분석 | 카드 매출 & 유동인구 데이터 기반 금융 전략 제안 | Pandas, Seaborn, Scikit-Learn | [🔗 GitHub](#) |
+| MedAI Scan | 의료 영상 데이터를 활용한 폐 질환 예측 모델 개발 및 AI 진단 리포트 자동화 | Python, TensorFlow, FastAPI, OpenCV | [🔗 GitHub](#) |
 
 ### 👤 Personal Project
 
-\| DevSync (팀 프로젝트) | 팀원 간 일정 및 코드리뷰 자동화 도구, Slack 연동 백엔드 설계 및 구현 담당 | Node.js, MongoDB, GitHub API, Slack API | [🔗 GitHub](#) |
-\| MedAI Scan (팀 프로젝트) | 의료 영상 데이터를 활용한 폐 질환 예측 모델 개발 및 AI 진단 리포트 자동화 | Python, TensorFlow, FastAPI, OpenCV | [🔗 GitHub](#) |
-\| NewsClassy (개인 프로젝트) | 뉴스 기사 분류 모델 개발 및 REST API 서비스화 (다중 분류 모델 + Flask 서버 구현) | Python, Scikit-Learn, Flask, SQLite | [🔗 GitHub](#) |
+| 프로젝트명 | 설명 | 기술스택 | 링크 |
+|------------|------|----------|------|
+| NewsClassy | 뉴스 기사 분류 모델 개발 및 REST API 서비스화 (다중 분류 모델 + Flask 서버 구현) | Python, Scikit-Learn, Flask, SQLite | [🔗 GitHub](#) |
 
----
 
 ## 📚 Education & Certification
 
