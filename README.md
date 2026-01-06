@@ -10,11 +10,7 @@
 ## 🔧 Skills
 
 - **Language**: Python, SQL, R
-- **Data**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **AI/ML**: TensorFlow, OpenCV, NLP(KoNLPy, Transformers)
-- **Web/App**: Flask, React, Node.js, Firebase
 - **Tools**: Git/GitHub, Jupyter, VSCode, Notion, Figma
-- **Etc**: Linux, REST API, Public Open Data 활용
 
 ---
 
@@ -61,16 +57,6 @@
 
 > 👉 공공서비스 기획의 데이터 기반 타당성을 확보하는 분석 역량 입증 후 울산시에 정책 기획 제시
 
----
-
-### 2. 📰 NewsClassy – 뉴스 키워드 자동 분류 및 트렌드 시각화  
-**[Python, KoNLPy, Word2Vec, Streamlit]**
-
-- 국내 뉴스 기사 크롤링 → 형태소 분석 및 키워드 벡터화
-- 군집화 및 시계열 시각화를 통해 시사 트렌드 분석 기능 제공
-- 사용자가 주제어를 입력하면 유사 키워드 자동 분류 및 뉴스 추천
-
-> 👉 빠르게 변화하는 정보 환경에서 사용자 맞춤형 뉴스 큐레이션 구현
 
 ---
 
